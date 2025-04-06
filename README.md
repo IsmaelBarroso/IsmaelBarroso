@@ -15,7 +15,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhhbWRhZ2JuMWQwazFsdmFjNHVlcm9hdnI5ZWlreGJuZXBmc2pzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vh1KrUr6Tvl1RFYYk6/giphy.gif" alt="Imagem">
+  <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpkOGJ5Y2Q5eTl1NTNzbWtnY3o4NXl6aGtzdXU3aDFsdGVrM28weSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZPQXNBBN7mbDALod9/giphy.gif" alt="Imagem">
 </p>
 
 
