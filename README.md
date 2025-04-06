@@ -14,7 +14,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdyb3B0OXo4dDE4OGd4dzdpazc4N2lndDl5YWZ0YjN5N2V3bnRjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzcYzbp8BZmwWTUPFa/giphy.gif" alt="Imagem">
+  <img align="center" src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdyb3B0OXo4dDE4OGd4dzdpazc4N2lndDl5YWZ0YjN5N2V3bnRjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzcYzbp8BZmwWTUPFa/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmgyMjNuZ3o2bGJvb2JibHBqYTRyd3VjbnBjeTNxdnBzN3plYmJnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c9IdCLK8TDv1e/giphy.gif)" alt="Imagem">
 </p>
 
 Assim brilhe a luz de vocês diante dos homens, para que vejam as suas boas obras e glorifiquem ao Pai de vocês, que está nos céus.<br>
